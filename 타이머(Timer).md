@@ -27,18 +27,18 @@
 
 - 푸시버튼(P0)을 누르면 '즉시 1초 동안 점등' 한 후, '1초 동안 소등'을 반복하는 회로 입니다.
 
-![timer_example_01.png](timer_example_01.png)
+![timer_example_01.png](images/timer_example_01.png)
 
 ### 3-2. 온딜레이 (On-Delay) 회로
 
 - 푸시버튼(P0)을 정확히 3초 동안 꾹 누르고 있어야 오작동 방지 필터가 해제되며
 모터(P40)가 기동합니다. 중간에 손을 떼면 타이머는 즉시 리셋됩니다.
 
-![timer_example_02.png](timer_example_02.png)
+![timer_example_02.png](images/timer_example_02.png)
 
 ### 3-3. 자기유지 기반 오프딜레이 (Off-Delay) 회로
 
 - 푸시버튼(P0)을 누르면 즉시 냉각팬(P40)이 돕니다. 정지 버튼(P1)을 누르면 시스템은 정지하지만,
 내부 열을 식히기 위해 5초간 후열(냉각)을 유지한 뒤 팬이 자동으로 꺼집니다.
 
-![timer_example_03.png](timer_example_03.png)
+![timer_example_03.png](images/timer_example_03.png)
