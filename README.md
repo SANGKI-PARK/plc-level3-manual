@@ -45,6 +45,7 @@
 - 카운터
 - 데이터 전송
 - 데이터 비교
+- [자기유지 구현 방법](가이드/자기유지/READMD.md)
 
 ---
 
@@ -58,4 +59,5 @@
 ---
 
 ## 참조
-- [PCL Control Qualification](https://pcq.co.kr/info/sample_list)
+- [PCL Control Qualification (공개문제)](https://pcq.co.kr/info/sample_list)
+- [Figma (이미지 편집)](https://www.figma.com/)
